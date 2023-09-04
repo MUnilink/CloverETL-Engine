@@ -1,0 +1,10 @@
+info@javlin.eu
+another@google.com
+yetanother@google.com
+gooddomain@google.com
+info@opensys.com
+info@opensys.com
+sales@opensys.com
+nonexistent@opensys.com
+test@cloveretl.net
+info@javlin.cz
