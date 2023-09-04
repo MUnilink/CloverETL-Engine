@@ -1,2 +1,0 @@
-Nancy Davolio;lowerCase($0.Arg);nancy davolio
-Andrew Fuller;lowerCase($0.Arg);andrew fuller

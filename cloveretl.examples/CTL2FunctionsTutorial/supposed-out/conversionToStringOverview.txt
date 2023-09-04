@@ -1,2 +1,0 @@
-12.05;toString($0.ArgDecimal);12.05
-134.89;toString($0.ArgDecimal);134.89

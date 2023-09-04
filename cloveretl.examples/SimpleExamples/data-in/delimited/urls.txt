@@ -1,2 +1,0 @@
-http://purl.org/vocab/bio/0.1/
-http://psi.ontopia.net/rdf/#

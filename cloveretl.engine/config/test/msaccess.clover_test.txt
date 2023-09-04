@@ -1,4 +1,0 @@
-dbDriver=sun.jdbc.odbc.JdbcOdbcDriver
-dbURL=jdbc:odbc:clover_test
-user=admin
-password=

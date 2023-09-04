@@ -1,1 +1,0 @@
-integer int = 87;

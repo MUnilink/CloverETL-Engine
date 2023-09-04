@@ -1,3 +1,0 @@
-tecik;removeNonAscii($0.Arg);tecik
-æMaro;removeNonAscii($0.Arg);Maro
-¹fternoon;removeNonAscii($0.Arg);fternoon

@@ -1,5 +1,0 @@
-meat;milk;apple;butter;|,
-meat;milk;apple;butter;||
-meat;milk;apple;butter;,
-meat;milk;apple;butter;/
-meat;milk;apple;butter;\/
